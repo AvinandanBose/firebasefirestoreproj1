@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453604555763",
+    "project_id": "studentreg-c47ca",
+    "storage_bucket": "studentreg-c47ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453604555763:android:faa7171fd5a3346ae93086",
+        "android_client_info": {
+          "package_name": "com.example.firebasefirestoreproj1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453604555763-g4mmh35aja7qgodb1j646k40sc4c9b7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Q9fdWZw7G4qCCbZ2td6EFwhHFxBFYtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453604555763-g4mmh35aja7qgodb1j646k40sc4c9b7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
